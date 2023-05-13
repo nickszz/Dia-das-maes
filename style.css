@@ -16,7 +16,7 @@
 }
 
 body {
-    min-height: 100vh;
+    min-height: 98vh;
     font-family: var(--fonte1);
     background-color: rgb(230, 78, 78);
     margin: auto;
@@ -36,7 +36,7 @@ header > h1 {
 }
 
 section {
-    min-width: 370px;
+    min-width: 380px;
     max-width: 1000px;
     margin: auto;
     padding-top: 10vh;
@@ -58,7 +58,7 @@ section.normal {
 
 section.imagem {
     max-height: 890px;
-    min-height: 370px;
+    min-height: 380px;
     max-width: 890px;
     min-width: 350px;
     margin: auto;
