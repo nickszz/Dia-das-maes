@@ -38,6 +38,7 @@ header > h1 {
 section {
     min-width: 380px;
     max-width: 1000px;
+    margin: auto;
     padding-top: 10vh;
     padding-bottom: 10vh;
     line-height: 2em;
@@ -76,11 +77,13 @@ section.imagem > p {
 }
 
 section#img01 {
+    background-image: url('imagens/Purple_Orange_Cancer_Astrology_Desktop_Wallpaper_-_2021-09-16T220240.720.png');
     background-position: right center;
     
     
 }
 
 section#img02 {
+    background-image: url('imagens/2399748-cartao-de-dia-das-maes-com-fundo-de-flores-flores-lindas-vetor.jpg');
     background-position: center center;
 }
