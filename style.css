@@ -39,6 +39,7 @@ section {
     min-width: 200px;
     max-width: 1000px;
     margin: auto;
+    padding-right: 100px;
     padding-top: 10vh;
     padding-bottom: 10vh;
     line-height: 2em;
