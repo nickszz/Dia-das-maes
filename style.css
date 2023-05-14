@@ -36,7 +36,7 @@ header > h1 {
 }
 
 section {
-    min-width: 380px;
+    min-width: 400px;
     max-width: 1000px;
     margin: auto;
     padding-top: 10vh;
@@ -58,7 +58,7 @@ section.normal {
 
 section.imagem {
     max-height: 890px;
-    min-height: 380px;
+    min-height: 400px;
     max-width: 890px;
     min-width: 350px;
     text-align: center;
@@ -86,4 +86,10 @@ section#img01 {
 section#img02 {
     background-image: url('https://img.freepik.com/vetores-premium/conceito-de-dia-das-maes-turva_23-2148494475.jpg?w=2000');
     background-position: center center;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
 }
